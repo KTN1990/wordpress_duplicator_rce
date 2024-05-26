@@ -16,7 +16,7 @@ To run this exploit you need to have python 3 and websites list then execute
 
 - [@KtN1990](https://t.me/KtN1990)
   
-## More Exploits, Check Megatron!
+## More Exploits, Check MEGATRON!
 
 ![Logo](https://raw.githubusercontent.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit/main/files/megatron.jpg)
 
